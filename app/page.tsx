@@ -29,8 +29,8 @@ export default function Home() {
             <span className="text-red-500">Digital Reality</span>
           </h1>
             <p className="text-[16px] text-gray-200 md:text-gray-400 mb-10 mb:pb-2 max-w-[400px]">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua
+                Hi! My name is Igor, and on this cyberpunk-themed portfolio website,
+                I'll introduce you to my skills and showcase some of my projects. Let's dive in!
             </p>
             <div className="relative w-[100px] h-[100px] md:w-[160px] md:h-[160px] mt-5"></div>
               <Image

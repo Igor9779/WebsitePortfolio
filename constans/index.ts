@@ -1,27 +1,26 @@
+import { FaCss3Alt, FaHtml5, FaJs, FaReact } from "react-icons/fa";
 import {
-    RxCrop,
-    RxDesktop,
-    RxPencil2,
-    RxReader,
-    RxRocket,
-    RxAccessibility,
     RxHome,
     RxPerson,
     RxDashboard,
 } from "react-icons/rx";
+import { SiCypress, SiTypescript } from "react-icons/si";
 
 export const Socials = [
   {
-    name: "Discord",
-    src: "/assets/discord.svg",
+    name: "LinkedIn",
+    src: "/assets/linkedin.svg",
+    link: "http://linkedin.com/in/igor-bondarenko-7a2966269",
   },
   {
-    name: "Facebook",
-    src: "/assets/facebook.svg",
+    name: "GitHub",
+    src: "/assets/github.svg",
+    link: "https://github.com/Igor9779",
   },
   {
-    name: "Instagram",
-    src: "/assets/instagram.svg",
+    name: "Telegram",
+    src: "/assets/telegram.svg",
+    link: "https://t.me/DarthHoit",
   },
 ];
 
@@ -75,38 +74,38 @@ export const ProImages2 = [
 
 export const ServiceData = [
   {
-    icon: RxReader,
-    title: "Seo",
+    icon: FaHtml5,
+    title: "HTML",
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     backgroundImage: "/assets/space/SpaceCity7.jpeg",
   },
   {
-    icon: RxCrop,
-    title: "Development",
+    icon: FaCss3Alt,
+    title: "CSS",
     content: "Lorem ipsum dolor sit /amet, consectetur adipiscing elit.",
     backgroundImage: "/assets/space/SpaceCity9.jpeg",
   },
   {
-    icon: RxPencil2,
-    title: "Branding",
+    icon: FaJs,
+    title: "JavaScript",
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     backgroundImage: "/assets/space/SpaceCity1.jpg",
   },
   {
-    icon: RxDesktop,
-    title: "Design",
+    icon: FaReact,
+    title: "React.js",
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     backgroundImage: "/assets/space/SpaceCity6.jpeg",
   },
   {
-    icon: RxAccessibility,
-    title: "Management",
+    icon: SiTypescript,
+    title: "TypeScript",
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     backgroundImage: "/assets/space/SpaceCity5.jpeg",
   },
   {
-    icon: RxRocket,
-    title: "Production",
+    icon: SiCypress,
+    title: "Cypress",
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     backgroundImage: "/assets/space/SpaceCity8.jpeg",
   },
