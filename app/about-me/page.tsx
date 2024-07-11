@@ -13,7 +13,7 @@ const Page = () => {
                   For the past 11 months, I&apos;ve been learning Front-End development,
                   which has provided me with a solid foundation to advance in the IT field and helped me land my first job.
                   Thanks to my soft skills, I easily connect with people and can quickly adapt to different situations.
-                  I also take responsibility for any task and love learning new things, as you can read in my recommendation.
+                  I also take responsibility for any task and love learning new things, as you can read in my <a href="https://drive.google.com/file/d/11GhtDXY6Ml-hoFxYKO20QJENyLFbHSrV/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="text-red-500 no-underline hover:text-blue-500 hover:animate-pulse">recommendation</a>.
                   Here, I&apos;ll list some of my tech skills:
             </p>
           </div>

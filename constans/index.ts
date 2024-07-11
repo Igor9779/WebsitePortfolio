@@ -45,15 +45,19 @@ export const NavLinks = [
 export const ProImages = [
   {
     src: "/assets/projects/clock-shop.jpg",
+    link: "https://dariusblac.github.io/project-clock-shop/",
   },
   {
     src: "/assets/projects/4Cooking.jpg",
+    link: "https://svitlanaparyiska.github.io/project-4Cooking/",
   },
   {
     src: "/assets/projects/power-pulse.jpg",
+    link: "https://arch819.github.io/project-PowerTeam-front/",
   },
   {
     src: "/assets/projects/n-code.jpg",
+    link: "https://n-code.study/",
   },
 ];
 
