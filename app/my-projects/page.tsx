@@ -9,8 +9,8 @@ const Page = () => {
                   My works <span className='text-red-500'>.</span>
               </h1>
               <p className='max-w-[400px] text-[16px] text-gray-200 md:text-gray-400'>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                  eiusmod tempor incididunt ut labore et dolore magna aliqua
+                  As you could guess, here I&apos;ll show and describe to you a few of my works that I did and,
+                  I hope you will like them!
               </p>
           </div>
 

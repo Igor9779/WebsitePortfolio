@@ -30,7 +30,7 @@ export default function Home() {
           </h1>
             <p className="text-[16px] text-gray-200 md:text-gray-400 mb-10 mb:pb-2 max-w-[400px]">
                 Hi! My name is Igor, and on this cyberpunk-themed portfolio website,
-                Ill introduce you to my skills and showcase some of my projects. Lets dive in!
+                I&apos;ll introduce you to my skills and showcase some of my projects. Let&apos;s dive in!
             </p>
             <div className="relative w-[100px] h-[100px] md:w-[160px] md:h-[160px] mt-5"></div>
               <Image

@@ -65,7 +65,7 @@ const ProjectSlider = () => {
                               />
                               <div className="cursor-pointer absolute inset-0 bg-gradient-to-r from-purple-800 via-pink-500 to-purple-800 opacity-0 group-hover:opacity-70 transition-opacity duration-200" />
                               <div className="cursor-pointer absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-70 transition-opacity duration-200 text-white md:text-lg">
-                                  View Project
+                                  Coming soon!
                                   <Image
                                       src="/assets/icons/arrow-right.svg"
                                       alt="arrow right"
